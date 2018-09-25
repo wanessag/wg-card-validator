@@ -1,15 +1,19 @@
 {
-  "name": "card-validator",
+  "name": "wg-card-validator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/wanessag/wg-card-validator.git"
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Wanessa Guimaraes",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.1.2",
